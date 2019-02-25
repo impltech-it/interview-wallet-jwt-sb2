@@ -1,0 +1,5 @@
+{
+  "errorName": "UserNotFoundException",
+  "cause": "null",
+  "errorMsg": "User not found!"
+}

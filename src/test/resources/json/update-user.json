@@ -1,0 +1,16 @@
+{
+  "userId": 6,
+  "username":"user",
+  "email":"user@gmail.com",
+  "password":"$2a$10$XScOp10umlgj..zQaqCpFe1G7ClFwwcUzN/egli8lY.PVqG6mGThu",
+  "roles": [
+    "USER"
+  ],
+  "wallets": [
+    {
+      "walletId": 5,
+      "currency":"EUR",
+      "balance": 1000
+    }
+  ]
+}

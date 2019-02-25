@@ -1,0 +1,11 @@
+{
+  "username":"Jessie",
+  "email":"Jessie@gmail.com",
+  "password":"2wsxzaq1",
+  "wallets": [
+    {
+      "currency":"USD",
+      "balance": 100000
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "errorName": "UserAlreadyExistsException",
+  "cause": "null",
+  "errorMsg": "Email already exists!"
+}
